@@ -1,0 +1,2 @@
+# EFI-Acer-e5-475g-i5-7200u-OC0.8.2
+EFI OC 0.8.2 Acer E5-475G i5-7200u BigSur 
