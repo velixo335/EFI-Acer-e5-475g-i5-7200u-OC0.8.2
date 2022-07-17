@@ -39,6 +39,6 @@ Nvidia GT940MX (Nvidia Optimus memang ga bisa)
 Restart
 Dan entahlah
 
----------------------------------------------------------------------
+----------------------------------------------------------------------
 
 Sama aja dengan versi yang 0.8.1 tapi kek nya lebih ringan 0.8.2 ini pas booting sama beberapa driver dan kext yg di hapus karna saya ga make.
